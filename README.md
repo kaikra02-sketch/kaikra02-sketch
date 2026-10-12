@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="./assets/avatar.jpg" width="180" alt="Developer Avatar" />
+<img src="./assets/banner.jpg" alt="System Developer — Street Cyberpunk Banner" width="100%" />
+
+<br />
+<img src="./assets/avatar.jpg" alt="Developer Avatar" width="150" />
 
 # ⚡ SYSTEM // DEVELOPER
 
-### Application Support System Engineer · Factory Automation · Smart Factory
+**Application Support System Engineer · Factory Automation · Smart Factory**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=F97316&center=true&vCenter=true&width=760&lines=Code+with+discipline.+Build+with+style.;Factory+Automation+%7C+MES+%7C+System+Support;API+Integration+%7C+Data+Flow+%7C+Dashboard;Continuous+Improvement+%7C+Problem+Solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+AUTOMATE+%E2%80%A2+IMPROVE;Factory+Automation+%7C+Smart+Factory;API+Integration+%7C+Data+Flow+%7C+Dashboards" alt="Developer typing animation" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=1d4ed8" alt="GitHub followers" />
+<br />
+<img src="https://komarev.com/ghpvc/?username=kaikra02-sketch&label=PROFILE+VIEWS&color=ea580c&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/kaikra02-sketch?label=FOLLOWERS&style=for-the-badge&color=1d4ed8" alt="GitHub Followers" />
 
 </div>
 
@@ -19,72 +21,37 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Application Support System Engineer** who connects **software**, **factory operations**, and **people** through practical digital solutions.
+I'm an **Application Support System Engineer** who connects software, factory operations, and people through practical digital solutions.
 
-- 🏭 Focus on **Factory Automation, MES, and Smart Factory Systems**
-- 🔗 Interested in **API integration, workflow automation, and system support**
-- 📊 Passionate about **production data, traceability, and operational dashboards**
-- 🚀 Always improving processes through **continuous improvement mindset**
+- 🏭 Focus: **Factory Automation, MES, Smart Factory**
+- 🔗 Interests: **API Integration, IoT, workflow automation**
+- 📊 Passionate about **production data, traceability, operational dashboards**
+- 🚀 Mindset: **Code. Automate. Improve.**
 
----
-
-## 🎨 Profile Style
-
-This profile is inspired by my avatar style:
-
-- **Primary vibe:** Developer × Hiphop × Cyber Futuristic
-- **Main colors:** Navy, Crimson Red, Copper Orange, Black
-- **Visual tone:** Clean, cool, confident, modern, high-tech
-
-> **Code. Automate. Improve.**
-
----
-
-## 🧰 Tech Stack
+## 🧰 Tech & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,fastapi,mongodb,mysql,redis,git,github,docker,vscode&perline=6" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,fastapi,mongodb,redis,mysql,git,github,docker,vscode&perline=6" alt="Tech and tools" />
 </div>
 
----
+## ⚙️ What I Work On
 
-## 📌 What I Work On
-
-| Area | Description |
+| Area | Focus |
 |---|---|
-| Factory Automation | Production monitoring, shop-floor digitization, real-time status |
-| System Integration | API connection, data flow, IoT signal integration |
-| Smart Factory | MES support, production data, automation workflow |
-| Dashboards & Reports | Operational visibility, KPI reporting, problem tracking |
-| Continuous Improvement | Kaizen ideas, support optimization, user-friendly systems |
+| Factory Automation | Production monitoring, shop-floor digitization |
+| System Integration | APIs, data pipelines, IoT signals |
+| Smart Factory | MES and operational systems |
+| Quality & Traceability | Defect tracking, lot traceability |
+| Dashboards | KPI reporting and real-time visibility |
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=f97316&text_color=e5e7eb&icon_color=ef4444&ring_color=f97316" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=f97316&text_color=e5e7eb" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=kaikra02-sketch&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikra02-sketch&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=F97316&fire=EF4444&currStreakLabel=F97316&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
-</div>
-
-> GitHub stats are based on your public activity.
-
----
-
-## 🤝 Connect With Me
-
-<div align="left">
-
-- 💼 Role: **Application Support System Engineer**
-- 🏢 Domain: **Manufacturing Systems / Smart Factory**
-- 🌱 Learning: **Automation, Integration, and Better Developer Workflows**
-- 📫 Contact: **your.email@example.com**
-
-</div>
+> Stats widgets depend on third-party services and may sometimes be unavailable.
 
 ---
 
