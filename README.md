@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+AUTOMATE+%E2%80%A2+IMPROVE;Factory+Automation+%7C+Smart+Factory;API+Integration+%7C+Data+Flow+%7C+Dashboards" alt="Developer typing animation" />
 
 <br />
-<img src="https://komarev.com/ghpvc/?username=kaikra02-sketch&label=PROFILE+VIEWS&color=ea580c&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kaikra02-sketch&color=ff4500&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/kaikra02-sketch?label=FOLLOWERS&style=for-the-badge&color=1d4ed8" alt="GitHub Followers" />
 
 </div>
