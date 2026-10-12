@@ -13,7 +13,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=kaikra02-sketch&color=ff4500&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kaikra02-sketch" alt="Profile Views" />
 
 <img src="https://img.shields.io/github/followers/kaikra02-sketch?label=FOLLOWERS&style=for-the-badge&color=1d4ed8" alt="GitHub Followers" />
 
